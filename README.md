@@ -10,4 +10,6 @@
   6. Tabs
       
 ## Forms
-07 Lorem Ipsum Generator
+7. Lorem Ipsum Generator
+8. Color-Generator
+9. Grocery-bud
