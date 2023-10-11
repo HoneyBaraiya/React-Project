@@ -17,3 +17,9 @@
 ## useRef and useContext
 10. Modal and Sidebar
 11. Stripe Menu
+
+## useReducer and useContext
+12. Cart
+
+## React Router and useCallback
+13. Cocktail
